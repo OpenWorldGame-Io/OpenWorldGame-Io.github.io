@@ -6,4 +6,4 @@ Disallow: /_config.yml
 Disallow: /_layouts/
 Disallow: /_plugins/
 
-Sitemap: https://fullit.github.io/sitemap.txt
+Sitemap: https://openworldgame-io.github.io/sitemap.txt
