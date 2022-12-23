@@ -48,7 +48,7 @@ canonical: https://github.com/OpenWorldGame-Io/OpenWorldGame-Io.github.io
 
 
 	</div>
-	<div data-anchor="1section" class="section" id="section1">
+	<div data-anchor="1section" class="section" id="section4">
 		<h1 class="heavy" style="color:black">Where</span>
 		</h1><br />
 		<h3 class="large-blur" style="color:black">
@@ -76,7 +76,7 @@ canonical: https://github.com/OpenWorldGame-Io/OpenWorldGame-Io.github.io
 			</a>
 		</div>
 	</div>
-	<div data-anchor="2section" class="section" id="section2">
+	<div data-anchor="2section" class="section" id="section1">
 			<h1 class="heavy">Why</span></h1>
 			<br />
 			<h3 class="large-blur">
@@ -96,7 +96,7 @@ canonical: https://github.com/OpenWorldGame-Io/OpenWorldGame-Io.github.io
 				</div>
 	</div>
 
-	<div data-anchor="3section" class="section" id="section3">
+	<div data-anchor="3section" class="section" id="section2">
 			<h1 class="heavy">How</span></h1>
 			<br /><h3 class="large-blur" align="left">
 				<span class="highlight-container"><span class="highlight">
@@ -115,7 +115,7 @@ canonical: https://github.com/OpenWorldGame-Io/OpenWorldGame-Io.github.io
 				</div>
 	</div>
 
-	<div data-anchor="4section" class="section" id="section4">
+	<div data-anchor="4section" class="section" id="section3">
 		<h1 class="heavy">When</span></h1>
 		<br /><h2>
 			<span class="highlight-container"><span class="highlight">
