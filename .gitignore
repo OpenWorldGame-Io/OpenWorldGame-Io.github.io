@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# MacOS finder metadata files
+.DS_Store
+
+# Locally built site
+_site
