@@ -3,25 +3,25 @@
   /* Defining each sectino background and styles
   * --------------------------------------- */
   #section0{
-    background-image: url(/assets/img/1.png);
+    background-image: url(/assets/img/1.jpg);
     padding: 6% 0 0 0;
   }
 
   #section1{
-    background-image: url(/assets/img/2.png);
+    background-image: url(/assets/img/2.jpg);
     padding: 6% 0 0 0;
   }
 
   #section2{
-    background-image: url(/assets/img/3.png);
+    background-image: url(/assets/img/3.jpg);
     padding: 6% 0 0 0;
   }
   #section3{
-    background-image: url(/assets/img/4.png);
+    background-image: url(/assets/img/4.jpg);
     padding: 6% 0 0 0;
   }
   #section4{
-    background-image: url(/assets/img/5.png);
+    background-image: url(/assets/img/5.jpg);
     padding: 6% 0 0 0;
   }
 
@@ -36,25 +36,25 @@
       /* Defining each section background and styles on portrait orientation
       * --------------------------------------- */
       #section0{
-        background-image: url(/assets/img/1.png);
+        background-image: url(/assets/img/1.jpg);
         padding: 6% 0 0 0;
       }
 
       #section1{
-        background-image: url(/assets/img/2.png);
+        background-image: url(/assets/img/2.jpg);
         padding: 6% 0 0 0;
       }
 
       #section2{
-        background-image: url(/assets/img/3.png);
+        background-image: url(/assets/img/3.jpg);
         padding: 6% 0 0 0;
       }
       #section3{
-        background-image: url(/assets/img/4.png);
+        background-image: url(/assets/img/4.jpg);
         padding: 6% 0 0 0;
       }
       #section4{
-        background-image: url(/assets/img/5.png);
+        background-image: url(/assets/img/5.jpg);
         padding: 6% 0 0 0;
       }
 
